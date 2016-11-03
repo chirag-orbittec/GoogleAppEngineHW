@@ -1,0 +1,3 @@
+# Module cmpe281
+# RPC service class, partial path of RPC policy file
+com.cmpe.client.GreetingService, ED9011C0FE75B5F044581A7A986C1C86.gwt.rpc

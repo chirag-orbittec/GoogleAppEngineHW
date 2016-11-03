@@ -1,0 +1,2 @@
+serviceClass: com.cmpe.client.GreetingService
+path: ED9011C0FE75B5F044581A7A986C1C86.gwt.rpc
