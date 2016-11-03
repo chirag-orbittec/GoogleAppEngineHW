@@ -15,7 +15,7 @@ http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" version="2.5">
     </servlet>
     <servlet-mapping>
         <servlet-name>Jersey Web Application</servlet-name>
-        <url-pattern>/resources/*</url-pattern>
+        <url-pattern>/cmpe281Chirag854/rest/*</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>
